@@ -10,3 +10,8 @@
  * InitExample instances
  */
 export { initExampleStore, type InitExampleRecord } from './initExample';
+
+/**
+ * ContactForm instances
+ */
+export { contactFormStore, type ContactFormRecord } from './contactForm';

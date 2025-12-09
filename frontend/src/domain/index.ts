@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as contact from './contact/_module';

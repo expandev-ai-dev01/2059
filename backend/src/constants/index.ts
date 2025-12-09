@@ -18,3 +18,13 @@ export {
   type InitExampleLimitsType,
   type InitExamplePriority,
 } from './initExample';
+
+/**
+ * ContactForm constants
+ */
+export {
+  CONTACT_FORM_LIMITS,
+  CONTACT_FORM_URGENCY_LEVELS,
+  type ContactFormLimitsType,
+  type ContactFormUrgencyLevelsType,
+} from './contactForm';
